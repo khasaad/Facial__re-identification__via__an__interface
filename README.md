@@ -25,9 +25,9 @@ Key words: Computer Vision, OpenCV, dlib, face recognition, SVM, Flask.
 
 <p>To display the interface:</p>
 <p>In terminal, run:</p>
-<pre>
-  <code> python from_data.py</code>
-<pre>
+
+ <code> python from_data.py</code>
+
 <p></p>
 <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g1.PNG'>
 
