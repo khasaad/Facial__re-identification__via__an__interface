@@ -28,14 +28,14 @@ Key words: Computer Vision, OpenCV, dlib, face recognition, SVM, Flask.
   <li>In terminal, run: python from_data.py</li>
 </ol>
 
-<img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g1.png'>
+<img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g1.PNG'>
 
 <p>This interface contains a sidebar which can apply the three parts of the project: Images, Mask and Webcam.</p>
 
 <ul>
   <li>Images: To detect faces in an image.</li>
   <p>Once we click on Images, another page will appear where we will add an image to detect faces.</p>
-  <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g2.png'>
+  <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g2.PNG'>
   <p>We add the image by clicking on Choose File, then we click on Apply.</p>
-  <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g3.png'>
+  <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g3.PNG'>
 </ul>
