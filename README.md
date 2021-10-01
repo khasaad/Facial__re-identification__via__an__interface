@@ -38,4 +38,12 @@ Key words: Computer Vision, OpenCV, dlib, face recognition, SVM, Flask.
   <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g2.PNG'>
   <p>We add the image by clicking on Choose File, then we click on Apply.</p>
   <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g3.PNG'>
+  <p>As seen in the image above, we get the result where it detects known faces and other unknowns.</p>
+  <p>Pour obtenir des informations sur les visages connus, on utilise le chemin suivant: /getImages/getinformation et le résultat va apparaître dans une page html.</p>
+  <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g4.PNG'>
+  <li>Mask: To detect who is wearing the mask or not.</li>
+  <p>Once we click on Mask, a Webcam page will appear where we will detect the faces that wear the mask or not.</p>
+  <li>Webcam: To detect faces in real time.</li>
+  <p>Once you click on Webcam, a Webcam page will appear where we will detect people's faces if they are known with their name and score or if they are not known. Then with the    following path “/video_feed/about_faces” we can open another html page containing all current or previous information.</p>
+  <img src='https://github.com/khasaad/Facial__re-identification__via__an__interface/blob/master/Images_git/g5.PNG'>
 </ul>
