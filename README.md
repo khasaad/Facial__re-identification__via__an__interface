@@ -17,7 +17,7 @@ Key words: Computer Vision, OpenCV, dlib, face recognition, SVM, Flask.
 
 <h2>How to use</h2>
 <ol>
-  <li>Clone the github repo on your machine:<br><code>git clone https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision.git</code></li>
+  <li>Clone the github repo on your machine:<br><code>git clone </code></li>
   <li><code>pip install -r requirements.txt</code></li>
   <li>Copy the contents of <a href='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/tree/main/datasets'>datasets</a> in the same folder.</li>
 </ol>
