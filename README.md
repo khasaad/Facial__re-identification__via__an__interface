@@ -21,3 +21,4 @@ Key words: Computer Vision, OpenCV, dlib, face recognition, SVM, Flask.
   <li><code>pip install -r requirements.txt</code></li>
 </ol>
 
+<h2>Flask interface</h2>
