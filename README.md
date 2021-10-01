@@ -8,8 +8,10 @@ Key words: Computer Vision, OpenCV, dlib, face recognition, SVM, Flask.
 <p>This project consists of requesting information previously stored in a database (photos of faces) in order to detect faces, then making it available via an interface.</p>
 
 <h2>Project components</h2>
-<ul>The project consists of three parts:
-<li>Detect mask</li>
-<li>Detect faces in real time</li>
-<li>Detect faces in an image</li>
+<p>The project consists of three parts:</p>
+<ul>
+  <li>Detect mask</li>
+  <li>Detect faces in real time</li>
+  <li>Detect faces in an image</li>
 </ul>
+
