@@ -54,3 +54,4 @@ Key words: Computer Vision, OpenCV, dlib, face recognition, SVM, Flask.
 <p>[3]<a href="https://cmusatyalab.github.io/openface/" target="_blank">Open Face</a></p>
 <p>[4]<a href="https://arsfutura.com/magazine/face-recognition-with-facenet-and-mtcnn/" target="_blank">Face Recognition with FaceNet and MTCNN</a></p>
 <p>[5]<a href="https://ghaliahmed.wordpress.com/2018/10/13/abstract/" target="_blank">Face Detection and Recognition in Real-World Videos Using Deep Learning Method</a></p>
+ 
