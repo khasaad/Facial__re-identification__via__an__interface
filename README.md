@@ -15,9 +15,10 @@ Key words: Python, Computer Vision, OpenCV, dlib, face recognition, SVM, Flask, 
   <li>Detect faces in an image</li>
 </ul>
 
-<h2>How to use</h2>
+<h2>Requirements</h2>
+<p>Our code has been run on python 3.9</p>
+<p>For using code, please refer to our requirements:</p>
 <ol>
-  <li>Clone the github repo on your machine:<br><code>git clone https://github.com/khasaad/Facial__re-identification__via__an__interface.git</code></li>
   <li><code>pip install -r requirements.txt</code></li>
 </ol>
 
